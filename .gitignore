@@ -1,2 +1,5 @@
+last_env
 __pycache__
 *.sqlite3
+key.pem
+key.pemZone.Identifier
